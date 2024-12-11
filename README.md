@@ -1,4 +1,4 @@
-# trader-quickstart
+# TraderAI.fun - quickstart
 
 A quickstart for the AI trader agent for AI prediction markets on Solana at https://trader-ai.fun/
 
